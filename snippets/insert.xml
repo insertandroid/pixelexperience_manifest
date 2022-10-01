@@ -4,6 +4,6 @@
   <remote name="insert" fetch="https://github.com/insertandroid" revision="insert-renoir" />
 
   <!-- General repos -->
-  <project path="bootable/recovery" name="bootable_recovery" remote="insert" />
+  <project path="bootable/recovery" name="pixelexperience_bootable_recovery" remote="insert" />
 
 </manifest>
