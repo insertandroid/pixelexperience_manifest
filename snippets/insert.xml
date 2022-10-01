@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="insert" fetch="https://github.com/insertandroid" revision="insert-renoir" />
+
+  <!-- General repos -->
+  <project path="bootable/recovery" name="bootable_recovery" remote="insert" />
+
+</manifest>

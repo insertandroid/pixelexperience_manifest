@@ -1120,4 +1120,7 @@
   <include name="snippets/pixel-extras.xml" />
   <include name="snippets/pixel-caf.xml" />
 
+  <!-- Add my own customsiations -->
+  <include name="snippets/insert.xml" />
+
 </manifest>
